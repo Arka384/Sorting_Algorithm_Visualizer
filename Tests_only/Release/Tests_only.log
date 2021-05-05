@@ -1,0 +1,93 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Tests_only.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(42): warning C4101: 'choice': unreferenced local variable
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(441): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(455): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(464): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(511): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(512): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(582): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(583): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(610): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(611): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(628): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(629): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(648): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(649): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(668): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(669): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(686): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(687): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(704): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(705): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(722): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(723): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(741): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(742): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(761): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\sorting_algorithm_visualizer\tests_only\main.cpp(762): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 80 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tests_only.vcxproj -> C:\Users\arkad\Documents\DEADSHOT FILES\C++ Programs\SFML\Projects\Sorting_Algorithm_Visualizer\Release\Sorting_Algorithm_Visualizer.exe
